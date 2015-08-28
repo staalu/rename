@@ -1,0 +1,9 @@
+('D:\\git_rep\\rename\\dist\\rename.exe',
+ True,
+ False,
+ 'VVV.ico',
+ None,
+ [],
+ None,
+ True,
+ 1440756961L)
