@@ -1,0 +1,1 @@
+pyinstaller -i VVV.ico -F rename.py
